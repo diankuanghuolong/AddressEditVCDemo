@@ -14,9 +14,7 @@
 		B6BAF56F1FE74F800091D0DA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B6BAF56D1FE74F800091D0DA /* LaunchScreen.storyboard */; };
 		B6BAF5721FE74F800091D0DA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B6BAF5711FE74F800091D0DA /* main.m */; };
 		B6BAF57B1FE7506D0091D0DA /* AddressVC.m in Sources */ = {isa = PBXBuildFile; fileRef = B6BAF57A1FE7506D0091D0DA /* AddressVC.m */; };
-		B6BAF5941FE7AEBC0091D0DA /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = B6BAF5911FE7AEBC0091D0DA /* 1.png */; };
-		B6BAF5951FE7AEBC0091D0DA /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = B6BAF5921FE7AEBC0091D0DA /* 2.png */; };
-		B6BAF5961FE7AEBC0091D0DA /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = B6BAF5931FE7AEBC0091D0DA /* 3.png */; };
+		B6CD448D1FF36845003D23BA /* 地址管理动画效果.gif in Resources */ = {isa = PBXBuildFile; fileRef = B6CD448C1FF36845003D23BA /* 地址管理动画效果.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,9 +30,7 @@
 		B6BAF5711FE74F800091D0DA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		B6BAF5791FE7506D0091D0DA /* AddressVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AddressVC.h; sourceTree = "<group>"; };
 		B6BAF57A1FE7506D0091D0DA /* AddressVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AddressVC.m; sourceTree = "<group>"; };
-		B6BAF5911FE7AEBC0091D0DA /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
-		B6BAF5921FE7AEBC0091D0DA /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
-		B6BAF5931FE7AEBC0091D0DA /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		B6CD448C1FF36845003D23BA /* 地址管理动画效果.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "地址管理动画效果.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,9 +90,7 @@
 		B6BAF5901FE7AEBC0091D0DA /* showImages */ = {
 			isa = PBXGroup;
 			children = (
-				B6BAF5911FE7AEBC0091D0DA /* 1.png */,
-				B6BAF5921FE7AEBC0091D0DA /* 2.png */,
-				B6BAF5931FE7AEBC0091D0DA /* 3.png */,
+				B6CD448C1FF36845003D23BA /* 地址管理动画效果.gif */,
 			);
 			path = showImages;
 			sourceTree = "<group>";
@@ -160,10 +154,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				B6BAF56F1FE74F800091D0DA /* LaunchScreen.storyboard in Resources */,
-				B6BAF5941FE7AEBC0091D0DA /* 1.png in Resources */,
-				B6BAF5951FE7AEBC0091D0DA /* 2.png in Resources */,
-				B6BAF5961FE7AEBC0091D0DA /* 3.png in Resources */,
 				B6BAF56C1FE74F800091D0DA /* Assets.xcassets in Resources */,
+				B6CD448D1FF36845003D23BA /* 地址管理动画效果.gif in Resources */,
 				B6BAF56A1FE74F800091D0DA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
